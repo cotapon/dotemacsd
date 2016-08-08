@@ -1,0 +1,330 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/a14161/oimachi-stg/app/db/" . "mongodb/")
+ ("/Users/a14161/oimachi-stg/app/model/" . "mongodb/")
+ ("/Users/a14161/oimachi-stg/app/models/" . "mongodb/")
+ ("/Users/a14161/workspace/ghe/" . "docs/")
+ ("/Users/a14161/workspace/" . "ghe/")
+ ("/Users/a14161/oimachi-stg/typings/" . "globals/")
+ ("/Users/a14161/oimachi-stg/app/public/javascripts/" . "test/")
+ ("/Users/a14161/oimachi-stg/app/public/" . "javascripts/")
+ ("/Users/a14161/oimachi-stg/app/test/lib/" . "Routes/")
+ ("/Users/a14161/oimachi-stg/app/test/" . "lib/")
+ ("/Users/a14161/oimachi-stg/dist/lib/" . "Routes/")
+ ("/Users/a14161/oimachi-stg/app/lib/" . "Api/")
+ ("/Users/a14161/oimachi-stg/dist/" . "lib/")
+ ("/Users/a14161/oimachi-stg/app/" . "lib/")
+ ("/Users/a14161/oimachi-stg/" . "app/")
+ ("/Users/a14161/Dropbox/oimachi-v2/server/public/javascripts/" . "test/")
+ ("/Users/a14161/Dropbox/oimachi-v2/server/public/" . "javascripts/")
+ ("/Users/a14161/Dropbox/oimachi-v2/server/" . "public/")
+ ("/Users/a14161/Dropbox/oimachi-v2/node_modules/gulp/" . "bin/")
+ ("/Users/a14161/Dropbox/oimachi-v2/node_modules/" . "gulp/")
+ ("/Users/a14161/Dropbox/oimachi-v2/typings/globals/" . "power-assert/")
+ ("/Users/a14161/Dropbox/oimachi-v2/typings/" . "globals/")
+ ("/Users/a14161/Dropbox/oimachi-v2/dist/lib/" . "search/")
+ ("/Users/a14161/Dropbox/oimachi-v2/app/lib/" . "search/")
+ ("/Users/a14161/Dropbox/oimachi-v2/app/public/" . "javascripts/")
+ ("/Users/a14161/Dropbox/oimachi-v2/dist/" . "test/")
+ ("/Users/a14161/Dropbox/oimachi-v2/app/" . "views/")
+ ("/Users/a14161/Dropbox/oimachi-v2/" . "app/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/public/javascripts/" . "test/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/public/" . "javascripts/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/routes/" . "test/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/" . "public/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/public/" . "javascripts/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/" . "app/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/ts/" . "test/")
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/" . "bin/")
+ ("/Users/a14161/Dropbox/waricam/src/" . "styles/")
+ ("/Users/" . "a14161/")
+ ("/Users/a14161/Dropbox/waricam/" . "src/")
+ ("/Users/a14161/Dropbox/waracam/" . "app/")
+ ("/Users/a14161/Dropbox/github/" . "gulp-express-ts/")
+ ("/Users/a14161/Dropbox/symlink/dotfiles/" . ".emacs.d/")
+ ("/Users/a14161/Dropbox/symlink/" . "dotfiles/")
+ ("/Users/a14161/" . "oimachi-stg/")
+ ("/Users/a14161/Dropbox/oimachi/app/" . "views/")
+ ("/Users/a14161/Dropbox/mazda_studio/workspace/" . "app/")
+ ("/Users/a14161/Dropbox/mazda_studio/" . "workspace/")
+ ("/Users/a14161/Dropbox/oimachi/" . "app/")
+ ("/Users/a14161/Dropbox/" . "oimachi/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/a14161/oimachi-stg/app/lib/Api/"
+ "/Users/a14161/oimachi-stg/app/routes/"
+ "/Users/a14161/oimachi-stg/app/test/lib/"
+ "/Users/a14161/oimachi-stg/app/lib/"
+ "/Users/a14161/oimachi-stg/app/views/"
+ "/Users/a14161/oimachi-stg/app/db/mongodb/"
+ "/Users/a14161/oimachi-stg/app/"
+ "/Users/a14161/oimachi-stg/app/test/routes/"
+ "/Users/a14161/oimachi-stg/config/"
+ "/Users/a14161/oimachi-stg/app/model/"
+ "/Users/a14161/oimachi-stg/app/test/db/"
+ "/Users/a14161/oimachi-stg/app/model/mongodb/"
+ "/Users/a14161/oimachi-stg/app/db/"
+ "/Users/a14161/oimachi-stg/app/models/mongodb/"
+ "/Users/a14161/oimachi-stg/app/models/"
+ "/Users/a14161/oimachi-stg/"
+ "/Users/a14161/oimachi-stg/dist/lib/"
+ "/Users/a14161/workspace/ghe/docs/"
+ "/Users/a14161/workspace/ghe/world-actionscript-style-guide/"
+ "/Users/a14161/.emacs.d/"
+ "/Users/a14161/workspace/task/"
+ "/Users/a14161/oimachi-stg/dist/routes/"
+ "/Users/a14161/oimachi-stg/app/lib/Routes/"
+ "/Users/a14161/oimachi-stg/dist/lib/Routes/"
+ "/Users/a14161/oimachi-stg/app/test/"
+ "/Users/a14161/oimachi-stg/typings/"
+ "/Users/a14161/oimachi-stg/app/test/lib/Routes/"
+ "/Users/a14161/Dropbox/oimachi/app/views/"
+ "/Users/a14161/Dropbox/oimachi/app/routes/"
+ "/Users/a14161/Dropbox/oimachi/app/"
+ "/Users/a14161/oimachi-stg/app/public/javascripts/test/"
+ "/Users/a14161/oimachi-stg/app/test/lib/Rotes/"
+ "/Users/a14161/Dropbox/oimachi-v2/"
+ "/Users/a14161/Dropbox/oimachi-v2/app/"
+ "/Users/a14161/Dropbox/oimachi-v2/server/public/javascripts/test/"
+ "/Users/a14161/Dropbox/oimachi/"
+ "/Users/a14161/Dropbox/oimachi-v2/server/views/"
+ "/Users/a14161/Dropbox/oimachi-v2/server/"
+ "/Users/a14161/Dropbox/oimachi-v2/app/views/"
+ "/Users/a14161/Dropbox/oimachi-v2/dist/"
+ "/Users/a14161/Dropbox/oimachi-v2/app/routes/"
+ "/Users/a14161/Dropbox/oimachi-v2/dist/test/"
+ "/Users/a14161/Dropbox/oimachi-v2/app/lib/search/"
+ "/Users/a14161/Dropbox/oimachi-v2/app/test/"
+ "/Users/a14161/Dropbox/oimachi-v2/typings/globals/power-assert/"
+ "/Users/a14161/Dropbox/oimachi-v2/test/"
+ "/Users/a14161/Dropbox/oimachi-v2/src/"
+ "/Users/a14161/Dropbox/oimachi/config/"
+ "/Users/a14161/Dropbox/oimachi-v2/dist/lib/search/"
+ "/Users/a14161/Dropbox/oimachi/app/lib/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "Yahoo.ts"
+ "Item.ts"
+ "Normalize.ts"
+ "yahoo.ts"
+ "Components.ts"
+ "index.ts"
+ "search.jade"
+ "Brand.ts"
+ "layout.jade"
+ "item.jade"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/a14161/oimachi-stg/" (22439 55895 0 0) "typings.json" "typings/" "tsconfig.json" "package.json" "node_modules/" "karma.conf.js" "gulpfile.js" "dist/" "config/" "app/" ".gitignore" ".git/" ".DS_Store" ".babelrc" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/typings/" (22436 9692 0 0) "index.d.ts" "globals/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/dist/routes/" (22436 24730 0 0) "Utils.js" "Locals.js" "Item.js" "index.js" "Brand.js" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/dist/lib/" (22436 24730 0 0) "Utils.js" "Logger.js" "Components.js" "Api/" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/lib/" (22436 13136 0 0) "Utils.ts" "Logger.ts" "Components.ts" "Api/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/views/" (22436 12819 0 0) "search.jade" "layout.jade" "item.jade" "index.jade" "footer.jade" "error.jade" "brand.jade" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/test/lib/" (22435 65324 0 0) "yahoo.ts" "amazon.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/lib/Api/" (22435 60697 0 0) "Yahoo.ts" "Normalize.ts" "index.ts" "IApi.ts" "Amazon.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/routes/" (22435 1338 0 0) "Utils.ts" "Locals.ts" "Item.ts" "index.ts" "Brand.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/test/" (22434 42548 0 0) "routes/" "lib/" "db/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/" (22434 39506 0 0) "workspace/" "woman_cache" "VirtualBox VMs/" "vagrant/" "tss.emacs.d/" "tide.emacs.d/" "tide-master/" "test.py" "sample/" "Public/" "Pictures/" "package-tide.emacs.d/" "oimachi-stg/" "Music/" "Movies/" "Library/" "Google ドライブ/" "express/" "dump/" "Dropbox/" "Downloads/" "Documents/" "docker-sample/" "Desktop/" "deedrill/" "Creative Cloud Files/" "Applications/" "03-express-gulp-watch/" ".zshrc.alias" ".zshrc" ".zsh_history" ".zcompdump" ".wget-hsts" ".vscode/" ".viminfo" ".vagrant.d/" ".v8flags.5.0.71.47.a14161.json" ".v8flags.4.5.103.35.a14161.json" ".tsd-cache/" ".Trash/" ".tmux.conf" ".titanium/" ".subversion/" ".ssh/" ".spyder2-py3/" ".RSA/" ".revive.el" ".pyenv/" ".oracle_jre_usage/" ".nvm/" ".npm/" ".node_repl_history" ".node-gyp/" ".netrc" ".mongorc.js" ".matplotlib/" ".local/" ".ipython/" ".InstallAnywhere/" ".hgignore_global" ".heroku/" ".gitignore_global" ".gitignore-boilerplates/" ".gitconfig" ".gem/" ".emacs.d/" ".eclipse/" ".DS_Store" ".dropbox/" ".docker/" ".dbshell" ".cups/" ".continuum/" ".config/" ".condamanager/" ".cache/" ".boot2docker/" ".bash_history" ".atom/" ".appcelerator/" ".anyconnect" ".anaconda/" ".adobe/" ".acs" ".account" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/model/" (22433 50602 0 0) "Category.ts" "Brand.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/db/mongodb/" (22433 50622 0 0) "db.ts" "CategoryModel.ts" "BrandModel.ts" "Brand.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/test/db/" (22432 13783 0 0) "Brand.ts" "../" "./")
+
+ ("/Users/a14161/workspace/ghe/docs/" (22430 45046 0 0) "piggworld-actionscript-style-guide.md" "piggworld-actionscript-style-guide.html" "HelloPiggWorld.md" "HelloPiggWorld.html" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/db/" (22430 55985 0 0) "mongodb/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/model/mongodb/" (22426 63052 0 0) "index.ts" "Brand.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/" (22430 36916 0 0) "views/" "test/" "routes/" "public/" "model/" "lib/" "db/" "bin/" "app.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/models/mongodb/" (22426 63052 0 0) "index.ts" "Brand.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/models/" (22426 63057 0 0) "mongodb/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi/app/" (22173 39661 0 0) "views/" "test/" "routes/" "public/" "models/" "lib/" "bin/" "app.coffee" ".tmp/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/workspace/task/" (22425 47798 0 0) "quest_zoom.md" "newtown.md" "moyogae2nd.md" "moyogae.md" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/config/" (22157 52159 0 0) "production.yml" "development.yml" "config.json" "../" "./")
+
+ ("/Users/a14161/workspace/ghe/" (22425 47256 0 0) "docs/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/workspace/ghe/world-actionscript-style-guide/" (22425 40375 0 0) "README.md" ".git/" "../" "./")
+
+ ("/Users/a14161/workspace/" (22425 40302 0 0) "world/" "task/" "life/" "home/" "ghe/" "document/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/workspace/world/" (22247 64622 0 0) "piggworld-node/" "flash/" "animetion/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/workspace/world/flash/" (22415 20002 0 0) "WebSocketTest/" "piggworld-vote/" "piggworld-visitorneeds/" "piggworld-vehicleshop/" "piggworld-usergift/" "piggworld-troubleresolution/" "piggworld-trophy/" "piggworld-traineegame/" "piggworld-trainee/" "piggworld-trade/" "piggworld-tips/" "piggworld-template/" "piggworld-storage/" "piggworld-start/" "piggworld-spresidentalbum/" "piggworld-snapshot/" "piggworld-shop/" "piggworld-setting/" "piggworld-residentselector/" "piggworld-residentprofile/" "piggworld-residentpresent/" "piggworld-residentlist/" "piggworld-recycle/" "piggworld-rdressup/" "piggworld-ranking/" "piggworld-quest/" "piggworld-profile/" "piggworld-present/" "piggworld-ppoint/" "piggworld-pocket/" "piggworld-materialshop/" "piggworld-main/" "piggworld-luckycoupon/" "piggworld-lotterygacha/" "piggworld-leveluphouse/" "piggworld-incentive/" "piggworld-ideabook/" "piggworld-helpbonus/" "piggworld-help/" "piggworld-giftlog/" "piggworld-garage/" "piggworld-gacha/" "piggworld-frocessing/" "piggworld-friends/" "piggworld-friendrequest/" "piggworld-fla/" "piggworld-expansion/" "piggworld-errand/" "piggworld-employeeselector/" "piggworld-emergencymission/" "piggworld-embed-font/" "piggworld-dressup/" "piggworld-detective/" "piggworld-deck/" "piggworld-coupon/" "piggworld-core/" "piggworld-content/" "piggworld-comebackcampaign/" "piggworld-comeback/" "piggworld-collect/" "piggworld-cinema/" "piggworld-buildshop/" "piggworld-buildlist/" "piggworld-buildingprofile/" "piggworld-buildingpocket/" "piggworld-buildingcondition/" "piggworld-buildcatalog/" "piggworld-boxgacha/" "piggworld-bingo/" "piggworld-attention/" "piggworld-asdoc/" "piggworld-arealist/" "piggworld-area/" "piggworld-apps/" "piggworld-app-thumbnail-checker/" "piggworld-app-residentgenerator/" "piggworld-app-npc-checker/" "piggworld-app-motionrecorder/" "piggworld-app-itemmaker-outsourcing/" "piggworld-app-itemmaker/" "piggworld-app-gridpicker/" "piggworld-app-furniture-helper/" "piggworld-app-furniture-checker/" "piggworld-app-datchecker/" "piggworld-app-dat-generator/" "piggworld-app-core/" "piggworld-app-cinema-generator3rd/" "piggworld-app-cinema-generator2nd/" "piggworld-app-cinema-generator/" "piggworld-app-announceevent-checker/" "piggworld-app-animation/" "piggworld-announceevent/" "piggworld-announce/" "pigg_regression/" "pigg-unuse-flash-sdk.sh" "pigg-git-setting.sh" "pigg-git-setting/" "M-GEN.sh" ".metadata/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/.emacs.d/" (22424 8273 0 0) "url/" "recentf" "places" "init.el" "ido.last" "elpa/" "elisp/" "el-get/" "auto-save-list/" "anything-c-adaptive-history" "ac-comphist.dat" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/dist/" (22423 20031 0 0) "views/" "test/" "routes/" "public/" "lib/" "bin/" "app.js" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/test/lib/Routes/" (22421 30842 0 0) "Utils_test.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/dist/lib/Routes/" (22423 11276 0 0) "Utils.js" "Params.js" "Locals.js" "IElements.js" "IBrand.js" "Brand.js" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/lib/Routes/" (22423 12084 0 0) "Utils.ts" "Params.ts" "Locals.ts" "IElements.ts" "IBrand.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/test/routes/" (22421 30842 0 0) "index.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/typings/globals/" (22417 60390 0 0) "serve-static/" "serve-favicon/" "node/" "morgan/" "mocha/" "mime/" "lodash/" "jquery/" "express-serve-static-core/" "express/" "cookie-parser/" "config/" "chai/" "body-parser/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/cotapon.org/" (22157 53058 0 0) "素材/" "tweenjs.jpg" "titanium/" "socket-io.jpeg" "oauth.psd" "nodejs_thum.jpg" "nodejs_socketio.jpg" "nodejs_oauth.psd" "nodejs_express.jpg" "nodejs.jpg" "logo.psd" "logo.png" "logo.gif" "logo-1.png" "index.png" "gravatar.jpg" "coffeescript.psd" "560580_347596831969225_1295151875_n.jpeg" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/public/javascripts/test/" (22387 26789 0 0) "module2.ts" "module2.js" "module1.ts" "module1.js" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/public/javascripts/" (22387 26789 0 0) "test/" "module2.ts" "module1.ts" "main.ts" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/public/" (22387 26789 0 0) "stylesheets/" "javascripts/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi/" (22402 62254 0 0) "package.json" "npm-debug.log" "node_modules/" "Gruntfile.coffee" "docs/" "dist/" "config/" "bower.json" "app/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/" (22405 50868 0 0) "素材/" "目標設定シート【小竹智士】.xlsx" "目標設定.txt" "火災保険/" "名刺.zip" "名刺/" "半期目標.txt" "カメラアップロード/" "アプリ/" "waricam/" "waracam/" "toyoko/" "toplog/" "tk-box/" "titanium/" "symlink/" "sandbox/" "saiyasuhikaku/" "rakuten/" "qrabell/" "Public/" "PPCデータ/" "Photoshop/" "Photos/" "oimachi-v2/" "oimachi/" "mazda_studio/" "kakakuhikaku/" "ikegami/" "Icon
+" "gulp/" "grunt/" "google/" "github/" "finance/" "emacsd/" "eco-yugi/" "ebook/" "cotapon.org/" "20150302 黒田様小竹様 グランセノーテ&ドスオホスシュノーケル/" "2014年賀状.ai" ".DS_Store" ".dropbox.cache/" ".dropbox" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/test/lib/Rotes/" (22413 51221 0 0) "Utils_test.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi/app/lib/" (22390 8410 0 0) "Ymall.coffee" "YamadaWebCom.coffee" "Yamada.coffee" "YahooAPI_2.coffee" "YahooAPI.coffee" "yahoo-api.coffee" "wikipedia-api.coffee" "utils.coffee" "Update.coffee" "UniversalAnalytics.coffee" "sitemap.csv" "Sitemap.coffee" "share-object.coffee" "search.coffee" "scraping.coffee" "Ranking.coffee" "RakutenAPI.coffee" "rakuten-api.coffee" "Ponpare.coffee" "Net7.coffee" "Mongo.coffee" "mongo-save.coffee" "Model.coffee" "JanCode.coffee" "itemSearch.coffee" "itemScraping.coffee" "itemOrganize.coffee" "itemIndexTags.coffee" "Item.coffee" "history.coffee" "GoogleAPI.coffee" "gmail.coffee" "facet.coffee" "Entry.coffee" "entry-keywords.coffee" "entry-jancode.coffee" "ECSearch.coffee" "destination.coffee" "cron.coffee" "Crawler.coffee" "CategoryGroup.coffee" "Category.coffee" "category-group.coffee" "brand.csv" "Brand.coffee" "Bestdenki.coffee" "aws-product.coffee" "aws-product-group.coffee" "AmazonAPI_exports.coffee" "AmazonAPI.coffee" "adsense-judge.coffee" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/dist/test/" (22388 31820 0 0) "sample-test.js" "routes/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/dist/lib/" (22386 2500 0 0) "utils.js" "search/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/public/javascripts/" (22386 74 0 0) "test/" "module2.ts" "module1.ts" "main.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/typings/" (22386 74 0 0) "index.d.ts" "globals/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/lib/" (22386 74 0 0) "utils.ts" "search/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/dist/lib/search/" (22386 2500 0 0) "index.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/test/" (22386 74 0 0) "sample-test.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/lib/search/" (22386 74 0 0) "index.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/dist/test/" (22386 2500 0 0) "sample-test.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/routes/" (22386 74 0 0) "users.ts" "index.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/dist/" (22386 2654 0 0) "views/" "test/" "routes/" "public/" "lib/" "bin/" "app.js" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/dist/lib/search/" (22387 27020 0 0) "index.js" "../" "./")
+
+ ("/Users/a14161/oimachi-stg/app/lib/search/" (22387 26789 0 0) "index.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/server/" (22386 1963 0 0) "views/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/server/views/" (22386 1963 0 0) "index.jade" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/" (22387 26704 0 0) "typings.json" "typings/" "tsconfig.json" "server/" "package.json" "node_modules/" "karma.conf.js" "gulpfile.js" "dist/" "app/" ".gitignore" ".DS_Store" ".babelrc" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/" (22386 2212 0 0) "views/" "test/" "routes/" "public/" "lib/" "bin/" "app.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/views/" (22386 74 0 0) "layout.jade" "index.jade" "error.jade" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/server/public/javascripts/test/" (22384 54839 0 0) "module2.ts" "module2.js" "module1.ts" "module1.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/server/public/javascripts/" (22384 55081 0 0) "test/" "module2.ts" "module1.ts" "main.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/server/public/" (22384 55074 0 0) "stylesheets/" "javascripts/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/node_modules/gulp/bin/" (22190 29907 0 0) "gulp.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/node_modules/gulp/" (22348 6694 0 0) "README.md" "package.json" "node_modules/" "LICENSE" "lib/" "index.js" "gulp.1" "completion/" "CHANGELOG.md" "bin/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/node_modules/" (22384 59916 0 0) "zip-object/" "yeast/" "yargs-parser/" "yargs/" "y18n/" "xtend/" "xmlhttprequest-ssl/" "xdg-basedir/" "ws/" "write-file-atomic/" "wrappy/" "wrap-ansi/" "wordwrap/" "with/" "window-size/" "widest-line/" "which/" "when/" "whatwg-fetch/" "weinre/" "wcwidth/" "watchify/" "void-elements/" "vm-browserify/" "vinyl-sourcemaps-apply/" "vinyl-source-stream/" "vinyl-fs/" "vinyl-buffer/" "vinyl/" "verror/" "vary/" "validate-npm-package-license/" "vali-date/" "v8flags/" "uuid/" "utils-merge/" "util-deprecate/" "util/" "utf8/" "useragent/" "user-home/" "url-parse-lax/" "url/" "update-notifier/" "unzip-response/" "unpipe/" "universal-deep-strict-equal/" "unique-stream/" "underscore/" "undefsafe/" "unc-path-regex/" "umd/" "ultron/" "uglify-to-browserify/" "uglify-save-license/" "uglify-js/" "ua-parser-js/" "typings-core/" "typings/" "typescript-simple/" "typescript/" "typedarray/" "type-name/" "type-is/" "type-detect/" "type-check/" "tweetnacl/" "tunnel-agent/" "tty-browserify/" "tsify/" "tsconfig/" "trim-newlines/" "traverse/" "transformers/" "tough-cookie/" "touch/" "to-iso-string/" "to-fast-properties/" "to-arraybuffer/" "to-array/" "to-absolute-glob/" "timers-browserify/" "timed-out/" "time-stamp/" "tildify/" "throwback/" "through2-filter/" "through2/" "through/" "throat/" "thenify/" "tfunk/" "temp/" "syntax-error/" "symbol/" "supports-color/" "supertest/" "superagent/" "subarg/" "stylus/" "strip-json-comments/" "strip-indent/" "strip-bom-stream/" "strip-bom/" "strip-ansi/" "stringstream/" "stringifier/" "string_decoder/" "string-width/" "string-template/" "string-length/" "stream-throttle/" "stream-splicer/" "stream-http/" "stream-consume/" "stream-combiner2/" "stream-combiner/" "stream-browserify/" "statuses/" "static-module/" "static-eval/" "sshpk/" "split/" "spdx-license-ids/" "spdx-expression-parse/" "spdx-exceptions/" "spdx-correct/" "sparkles/" "source-map-support/" "source-map/" "sort-keys/" "socket.io-parser/" "socket.io-client/" "socket.io-adapter/" "socket.io/" "sntp/" "slide/" "slash/" "sinon/" "signal-exit/" "sigmund/" "shell-quote/" "shebang-regex/" "shasum/" "shallow-copy/" "sha.js/" "setprototypeof/" "set-blocking/" "server-destroy/" "serve-static/" "serve-index/" "serve-favicon/" "sequencify/" "send/" "semver-diff/" "semver/" "sax/" "samsam/" "rx/" "run-sequence/" "ripemd160/" "rimraf/" "right-align/" "resp-modifier/" "resolve-from/" "resolve-dir/" "resolve/" "requires-port/" "require-main-filename/" "request/" "replace-ext/" "repeating/" "repeat-string/" "repeat-element/" "regjsparser/" "regjsgen/" "registry-url/" "regexpu-core/" "regex-cache/" "regenerator-runtime/" "regenerate/" "reduce-component/" "redent/" "rechoir/" "readdirp/" "readable-stream/" "read-pkg-up/" "read-pkg/" "read-only-stream/" "read-all-stream/" "rc/" "raw-body/" "range-parser/" "randombytes/" "randomatic/" "quote-stream/" "querystring-es3/" "querystring/" "qs/" "punycode/" "public-encrypt/" "ps-tree/" "proxy-addr/" "promise-finally/" "promise/" "process-nextick-args/" "process/" "private/" "pretty-hrtime/" "preserve/" "prepend-http/" "prelude-ls/" "power-assert-renderer-file/" "power-assert-renderer-diagram/" "power-assert-renderer-comparison/" "power-assert-renderer-base/" "power-assert-renderer-assertion/" "power-assert-formatter/" "power-assert-context-traversal/" "power-assert-context-reducer-ast/" "power-assert-context-formatter/" "power-assert/" "postcss-value-parser/" "postcss/" "portscanner/" "popsicle-status/" "popsicle-retry/" "popsicle-proxy-agent/" "popsicle/" "plur/" "pkg-conf/" "pinkie-promise/" "pinkie/" "pify/" "pbkdf2/" "pause-stream/" "path-type/" "path-to-regexp/" "path-platform/" "path-is-absolute/" "path-exists/" "path-browserify/" "parseurl/" "parseuri/" "parseqs/" "parsejson/" "parse-json/" "parse-glob/" "parse-asn1/" "parents/" "pako/" "package-json/" "outpipe/" "oss-license-name-to-url/" "osi-licenses/" "osenv/" "os-tmpdir/" "os-shim/" "os-locale/" "os-homedir/" "os-browserify/" "ordered-read-streams/" "orchestrator/" "options/" "optionator/" "optimist/" "opn/" "openurl/" "once/" "on-headers/" "on-finished/" "offset-sourcemap-lines/" "object.pick/" "object.omit/" "object-path/" "object-keys/" "object-inspect/" "object-component/" "object-assign/" "oauth-sign/" "number-is-nan/" "num2fraction/" "null-check/" "normalize-range/" "normalize-path/" "normalize-package-data/" "nopt/" "nodemon/" "node-uuid/" "node-status-codes/" "node-fetch/" "nested-error-stacks/" "negotiator/" "nan/" "multipipe/" "multi-stage-sourcemap/" "ms/" "morgan/" "module-deps/" "mocha/" "mkdirp/" "minimist/" "minimatch/" "minimalistic-assert/" "mime-types/" "mime-db/" "mime/" "miller-rabin/" "micromatch/" "methods/" "merge-stream/" "merge-descriptors/" "meow/" "media-typer/" "map-stream/" "map-obj/" "make-error-cause/" "make-error/" "lru-cache/" "lowercase-keys/" "loud-rejection/" "loose-envify/" "longest/" "lolex/" "log4js/" "lodash.values/" "lodash.templatesettings/" "lodash.template/" "lodash.restparam/" "lodash.rest/" "lodash.memoize/" "lodash.keys/" "lodash.isobject/" "lodash.isequal/" "lodash.isarray/" "lodash.isarguments/" "lodash.escape/" "lodash.defaults/" "lodash.assign/" "lodash._shimkeys/" "lodash._root/" "lodash._reunescapedhtml/" "lodash._reinterpolate/" "lodash._reevaluate/" "lodash._reescape/" "lodash._objecttypes/" "lodash._isnative/" "lodash._isiterateecall/" "lodash._htmlescapes/" "lodash._getnative/" "lodash._escapestringchar/" "lodash._escapehtmlchar/" "lodash._createassigner/" "lodash._bindcallback/" "lodash._basevalues/" "lodash._basetostring/" "lodash._basecopy/" "lodash._baseassign/" "lodash/" "lockfile/" "localtunnel/" "load-json-file/" "listify/" "limiter/" "liftoff/" "licensify/" "lexical-scope/" "levn/" "lcid/" "lazystream/" "lazy-cache/" "latest-version/" "labeled-stream-splicer/" "klaw/" "kind-of/" "karma-mocha/" "karma-chrome-launcher/" "karma-browserify/" "karma/" "jstransformer/" "jsprim/" "JSONStream/" "jsonpointer/" "jsonparse/" "jsonify/" "jsonfile/" "json5/" "json3/" "json-stringify-safe/" "json-stable-stringify/" "json-schema/" "jsesc/" "jsbn/" "js-tokens/" "js-stringify/" "js-string-escape/" "js-base64/" "jquery/" "jodid25519/" "jade/" "isstream/" "isomorphic-fetch/" "isobject/" "isexe/" "isbinaryfile/" "isarray/" "is-windows/" "is-valid-glob/" "is-utf8/" "is-url/" "is-unc-path/" "is-typedarray/" "is-stream/" "is-retry-allowed/" "is-relative/" "is-redirect/" "is-property/" "is-promise/" "is-primitive/" "is-posix-bracket/" "is-plain-obj/" "is-obj/" "is-number/" "is-npm/" "is-my-json-valid/" "is-glob/" "is-fullwidth-code-point/" "is-finite/" "is-extglob/" "is-extendable/" "is-equal-shallow/" "is-dotfile/" "is-builtin-module/" "is-buffer/" "is-binary-path/" "is-arrayish/" "is-absolute/" "irregular-plurals/" "ipaddr.js/" "invert-kv/" "invariant/" "interpret/" "insert-module-globals/" "inline-source-map/" "ini/" "inherits/" "inflight/" "infinity-agent/" "indx/" "indexof/" "indent-string/" "imurmurhash/" "immutable/" "ignore-by-default/" "ieee754/" "iconv-lite/" "https-proxy-agent/" "https-browserify/" "http-signature/" "http-proxy-agent/" "http-proxy/" "http-errors/" "htmlescape/" "hosted-git-info/" "home-or-tmp/" "hoek/" "hawk/" "hat/" "hash.js/" "has-gulplog/" "has-flag/" "has-cors/" "has-binary/" "has-ansi/" "has/" "har-validator/" "gulplog/" "gulp-util/" "gulp-uglify/" "gulp-typescript/" "gulp-stylus/" "gulp-sourcemaps/" "gulp-plumber/" "gulp-nodemon/" "gulp-mocha/" "gulp-load-plugins/" "gulp-karma/" "gulp-jade/" "gulp-changed/" "gulp-babel/" "gulp-autoprefixer/" "gulp/" "growl/" "graceful-readlink/" "graceful-fs/" "got/" "googlediff/" "glogg/" "globule/" "globby/" "globals/" "global-prefix/" "global-modules/" "glob2base/" "glob-watcher/" "glob-stream/" "glob-parent/" "glob-base/" "glob/" "getpass/" "get-stdin/" "generate-object-property/" "generate-function/" "gaze/" "function-bind/" "fsevents/" "fs.realpath/" "fs-extra/" "fs-exists-sync/" "fs-access/" "from/" "fresh/" "forwarded/" "formidable/" "formatio/" "form-data/" "forever-agent/" "foreach/" "for-own/" "for-in/" "fobject/" "flagged-respawn/" "first-chunk-stream/" "findup-sync/" "find-up/" "find-index/" "finalhandler/" "filled-array/" "fill-range/" "filename-regex/" "fbjs/" "fast-levenshtein/" "fancy-log/" "falafel/" "extsprintf/" "extglob/" "extend-shallow/" "extend/" "express/" "expand-tilde/" "expand-range/" "expand-brackets/" "expand-braces/" "evp_bytestokey/" "events/" "eventemitter3/" "event-stream/" "etag/" "esutils/" "estraverse/" "espurify/" "esprima/" "espower-typescript/" "espower-source/" "espower/" "escodegen/" "escape-string-regexp/" "escape-html/" "escallmatch/" "es6-promise/" "error-ex/" "ent/" "engine.io-parser/" "engine.io-client/" "engine.io/" "end-of-stream/" "encoding/" "encodeurl/" "empower-core/" "empower/" "emitter-steward/" "elliptic/" "ee-first/" "ecc-jsbn/" "eazy-logger/" "easy-extender/" "eastasianwidth/" "duplexify/" "duplexer2/" "duplexer/" "dot-prop/" "domain-browser/" "dom-serialize/" "diffie-hellman/" "diff/" "di/" "dev-ip/" "detective/" "detect-indent/" "destroy/" "des.js/" "deps-sort/" "deprecated/" "depd/" "delayed-stream/" "defined/" "define-properties/" "defaults/" "deep-is/" "deep-extend/" "deep-equal/" "deep-eql/" "decamelize/" "debug/" "deap/" "dateformat/" "date-now/" "dashdash/" "custom-event/" "ctype/" "css-stringify/" "css-parse/" "css/" "crypto-browserify/" "cryptiles/" "create-hmac/" "create-hash/" "create-error-class/" "create-ecdh/" "core-util-is/" "core-js/" "cookiejar/" "cookie-signature/" "cookie-parser/" "cookie/" "convert-source-map/" "content-type/" "content-disposition/" "constants-browserify/" "constantinople/" "console-browserify/" "connect-history-api-fallback/" "connect/" "configstore/" "config/" "concat-stream/" "concat-map/" "component-inherit/" "component-emitter/" "component-bind/" "commondir/" "commander/" "combined-stream/" "combine-source-map/" "columnify/" "colors/" "code-point-at/" "clone-stats/" "clone/" "cliui/" "cli-boxes/" "clean-css/" "cipher-base/" "chokidar/" "character-parser/" "chalk/" "chai/" "center-align/" "caseless/" "capture-stack-trace/" "caniuse-db/" "camelcase-keys/" "camelcase/" "callsite/" "call-signature/" "bytes/" "builtin-status-codes/" "builtin-modules/" "buffer-xor/" "buffer-shims/" "buffer/" "bs-recipes/" "browserslist/" "browserify-zlib/" "browserify-sign/" "browserify-rsa/" "browserify-des/" "browserify-cipher/" "browserify-aes/" "browserify/" "browser-sync-ui/" "browser-sync-client/" "browser-sync/" "browser-resolve/" "browser-pack/" "brorand/" "braces/" "brace-expansion/" "boxen/" "boom/" "body-parser/" "bn.js/" "bluebird/" "blob/" "bl/" "binary-extensions/" "better-assert/" "benchmark/" "beeper/" "batch/" "basic-auth/" "base64id/" "base64-js/" "base64-arraybuffer/" "balanced-match/" "backo2/" "babylon/" "babelify/" "babel-types/" "babel-traverse/" "babel-template/" "babel-runtime/" "babel-register/" "babel-preset-es2015/" "babel-plugin-transform-strict-mode/" "babel-plugin-transform-regenerator/" "babel-plugin-transform-es2015-unicode-regex/" "babel-plugin-transform-es2015-typeof-symbol/" "babel-plugin-transform-es2015-template-literals/" "babel-plugin-transform-es2015-sticky-regex/" "babel-plugin-transform-es2015-spread/" "babel-plugin-transform-es2015-shorthand-properties/" "babel-plugin-transform-es2015-parameters/" "babel-plugin-transform-es2015-object-super/" "babel-plugin-transform-es2015-modules-commonjs/" "babel-plugin-transform-es2015-literals/" "babel-plugin-transform-es2015-function-name/" "babel-plugin-transform-es2015-for-of/" "babel-plugin-transform-es2015-duplicate-keys/" "babel-plugin-transform-es2015-destructuring/" "babel-plugin-transform-es2015-computed-properties/" "babel-plugin-transform-es2015-classes/" "babel-plugin-transform-es2015-block-scoping/" "babel-plugin-transform-es2015-block-scoped-functions/" "babel-plugin-transform-es2015-arrow-functions/" "babel-plugin-syntax-async-functions/" "babel-plugin-check-es2015-constants/" "babel-messages/" "babel-helpers/" "babel-helper-replace-supers/" "babel-helper-regex/" "babel-helper-optimise-call-expression/" "babel-helper-hoist-variables/" "babel-helper-get-function-arity/" "babel-helper-function-name/" "babel-helper-define-map/" "babel-helper-call-delegate/" "babel-generator/" "babel-core/" "babel-code-frame/" "aws4/" "aws-sign2/" "autoprefixer/" "async-each-series/" "async-each/" "async/" "astw/" "assertion-error/" "assert-plus/" "assert/" "asn1.js/" "asn1/" "asap/" "arrify/" "arraybuffer.slice/" "array-unique/" "array-uniq/" "array-union/" "array-slice/" "array-reduce/" "array-map/" "array-foreach/" "array-flatten/" "array-find-index/" "array-filter/" "array-differ/" "arr-flatten/" "arr-diff/" "archy/" "anymatch/" "any-promise/" "ansi-styles/" "ansi-regex/" "ansi-align/" "amdefine/" "align-text/" "agent-base/" "after/" "acorn-globals/" "acorn-es7-plugin/" "acorn/" "accord/" "accepts/" "abbrev/" ".DS_Store" ".bin/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/typings/globals/power-assert/" (22384 55152 0 0) "typings.json" "index.d.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/typings/globals/" (22384 55525 0 0) "sinon/" "serve-static/" "serve-favicon/" "power-assert/" "node/" "morgan/" "mocha/" "mime/" "lodash/" "jquery/" "express-serve-static-core/" "express/" "empower/" "cookie-parser/" "config/" "chai/" "body-parser/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/src/" (22384 54839 0 0) "mytest.ts" "mytest.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/test/" (22384 54839 0 0) "sample-test.ts" "sample-test.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi/config/" (22157 52159 0 0) "production.yml" "development.yml" "config.json" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi/app/routes/" (22157 52126 0 0) "users.coffee" "sunnokai.coffee" "sitemap.coffee" "robots.coffee" "ranking.coffee" "index.coffee" "category.coffee" "api.coffee" "admin.coffee" ".tmp/" "../" "./")
+
+ ("/Users/a14161/.emacs.d/elpa/smartparens-1.4/" (22371 32960 0 0) "smartparens.elc" "smartparens.el" "smartparens-pkg.elc" "smartparens-pkg.el" "smartparens-latex.elc" "smartparens-latex.el" "smartparens-config.elc" "smartparens-config.el" "smartparens-autoloads.el" "README.md" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi-v2/app/public/" (22348 6611 0 0) "stylesheets/" "javascripts/" "../" "./")
+
+ ("/Users/a14161/Dropbox/oimachi/app/views/" (22347 35375 0 0) "tarms.jade" "sunnokai.jade" "social.jade" "results.jade" "recommend.jade" "ranking.jade" "privacy.jade" "layout.jade" "item.jade" "index.jade" "header.jade" "footer.jade" "error.jade" "detail.jade" "contact.jade" "category.jade" "brands.jade" "admin.jade" "about.jade" ".tmp/" "../" "./")
+
+ ("/Users/a14161/Dropbox/mazda_studio/" (22176 45066 0 0) "workspace/" "Icon
+" "Gruntfile.coffee" "document/" ".DS_Store" ".dropbox" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/" (22343 65054 0 0) "typings.json" "typings/" "tsconfig.json" "Readme.md" "package.json" "node_modules/" "karma.conf.js" "gulpfile.js" "dist/" "app/" ".gitignore" ".git/" ".DS_Store" ".babelrc" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/public/javascripts/test/" (22300 34672 0 0) "module2.ts" "module1.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/public/javascripts/" (22341 5696 0 0) "test/" "module2.ts" "module1.ts" "main.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/public/" (22340 65368 0 0) "stylesheets/" "javascripts/" "images/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/routes/test/" (22341 31336 0 0) "index.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/routes/" (22341 31296 0 0) "users.ts" "test/" "index.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/app/" (22341 8820 0 0) "views/" "routes/" "public/" "bin/" "app.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/bin/" (22340 10174 0 0) "www" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/public/javascripts/" (22341 5696 0 0) "test/" "module2.ts" "module1.ts" "main.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/" (22341 2249 0 0) "views/" "routes/" "public/" "bin/" "app.ts" "app.js" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/chat-sanitize-sample/" (22157 51013 0 0) "views/" "routes/" "README.md" "public/" "package.json" "node_modules/" "app.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/" (22339 64672 0 0) "node-oauth-sample/" "node-bootstrap-calender/" "gulp-jade-stylus-typescript/" "gulp-jade-stylus-coffee/" "gulp-express-ts/" "gulp-express-coffee/" "grunt-ti-alloy-ts/" "grunt-ti-alloy-coffee/" "grunt-express-coffee/" "extendsflick/" "express-bower/" "chat-socket_io-sample/" "chat-socket_io-mongoose-sample/" "chat-sanitize-sample/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/routes/" (22341 1294 0 0) "users.ts" "users.js" "index.ts" "index.js" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/typings/" (22341 182 0 0) "index.d.ts" "globals/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/public/" (22340 65368 0 0) "stylesheets/" "javascripts/" "images/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/ts/" (22340 8003 0 0) "test/" "module2.ts" "module1.ts" "app.ts" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/Dropbox/github/gulp-express-ts/src/ts/test/" (22300 34672 0 0) "module2.ts" "module1.ts" "../" "./")
+
+ ("/Users/a14161/Dropbox/waricam/" (22301 29569 0 0) "server/" "app/" ".DS_Store" "../" "./")
+
+ ("/Users/a14161/03-express-gulp-watch/" (22339 49947 0 0) "README.md" "Dockerfile" "docker-compose.yml" "app/" ".DS_Store" ".dockerignore" "../" "./")
+
+ ("/Users/a14161/Dropbox/waricam/src/styles/" (22292 12495 0 0) "index.styl" "app.styl" "../" "./")
+
+ ("/Users/a14161/Dropbox/waricam/src/views/" (22292 12495 0 0) "index.jade" "../" "./")
+
+ ("/Users/a14161/Dropbox/waricam/src/controllers/" (22292 12493 0 0) "index.ts" "../" "./")
+
+ ("/Users/Shared/" (22193 21901 0 0) "SC Info/" "Library/" "CA本体向け/" "AdobeInstalledCodecs/" "Adobe/" "adi/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
